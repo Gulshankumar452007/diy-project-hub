@@ -11,7 +11,7 @@ This is a simple DIY Projects website where users can explore various do-it-your
 
 ## Live demo
 
-for live website visit - 
+for live website visit - https://gulshankumar452007.github.io/diy-project-hub/
 
 
 ## Project List
